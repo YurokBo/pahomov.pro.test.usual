@@ -1,14 +1,31 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: Roboto sans-serif;
 }
 
 .all_content-wrapper {
     display: grid;
+    grid-template-columns: 1fr;
     margin: 241px auto;
     width: 380px;
     height: 541px;
+    font-family: Roboto sans-serif;
+    align-content: center;
+    justify-content: center;
 }
+
+.icon {
+    justify-self: center;
+}
+
+.signin {
+    align-content: center;
+    width: 100%;
+}
+
+
+
 
 .welcome {
     display: none;
