@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.all_content-wrapper {
+    display: grid;
+    margin: 241px auto;
+    width: 380px;
+    height: 541px;
+}
+
+.welcome {
+    display: none;
+}
+
+.welcome_active {
+    display: block;
+}
