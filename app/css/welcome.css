@@ -4,4 +4,15 @@
 
 .welcome_active {
     display: block;
+    margin: 241px auto;
+    font-family: Roboto, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.welcome_text, span {
+    display: inline-block;
+    margin: 0 auto;
+
 }
