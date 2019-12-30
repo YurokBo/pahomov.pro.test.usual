@@ -7,14 +7,14 @@ myForm.addEventListener('submit', async e => {
 
     const formData = new FormData(e.target),
 
-        response = await fetch ('https://netology-slow-rest.herokuapp.com/auth.php', {
+        response = await fetch('https://netology-slow-rest.herokuapp.com/auth.php', {
             method: 'post',
             body: formData
         });
 
     const json = await response.json();
 
-    if(json.success) {
+    if (json.success) {
         allContentWrapper.classList.add('all_content-wrapper-none');
 
         const welcome = document.querySelector('.welcome'),

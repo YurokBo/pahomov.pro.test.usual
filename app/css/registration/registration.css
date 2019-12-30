@@ -1,3 +1,7 @@
+@import "registration-childs/pass-or-reg.css";
+@import "registration-childs/create-account.css";
+@import "registration-childs/aHover.css";
+
 .registration {
     display: grid;
     grid-template-columns: 1fr 2fr;

@@ -5,12 +5,7 @@
 @import "css/control.css";
 @import "css/welcome.css";
 @import "css/signin-desctop/signin-desctop.css";
-@import "css/signin-desctop/signin-desctop-childs/checkbox.css";
-@import "css/signin-desctop/signin-desctop-childs/remember-me.css";
 @import "css/registration/registration.css";
-@import "css/registration/registration-childs/pass-or-reg.css";
-@import "css/registration/registration-childs/create-account.css";
-@import "css/registration/registration-childs/aHover.css";
 @import "css/copyright.css";
 
 body {

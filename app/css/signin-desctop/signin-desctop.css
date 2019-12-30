@@ -1,3 +1,6 @@
+@import 'signin-desctop-childs/checkbox.css';
+@import 'signin-desctop-childs/remember-me.css';
+
 .signin-desctop{
     display: grid;
     grid-template-columns: 24px auto;
