@@ -1,0 +1,7 @@
+.welcome {
+    display: none;
+}
+
+.welcome_active {
+    display: block;
+}

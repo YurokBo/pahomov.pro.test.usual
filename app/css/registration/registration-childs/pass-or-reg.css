@@ -1,0 +1,17 @@
+.pass_or_reg {
+    text-decoration: none;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+
+    align-items: center;
+    letter-spacing: 0.16px;
+
+    /* Blue Primary */
+
+    color: #2196F3;
+}

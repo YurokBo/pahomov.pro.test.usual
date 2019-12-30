@@ -1,0 +1,17 @@
+.copyright {
+    margin-top: 66px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.16px;
+
+    /* Black 54% */
+    color: rgba(0, 0, 0, 0.54);
+}

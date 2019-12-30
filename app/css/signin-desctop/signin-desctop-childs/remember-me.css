@@ -1,0 +1,16 @@
+.remember-me{
+    margin-left: 10px;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height, or 119% */
+
+    /*display: flex;*/
+    align-items: center;
+
+    /* Black 87% */
+
+    color: rgba(0, 0, 0, 0.87);
+}

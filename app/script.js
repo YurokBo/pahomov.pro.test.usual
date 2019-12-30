@@ -1,4 +1,4 @@
-const btn = document.querySelector('.btn');
+const allContentWrapper = document.querySelector('.all_content-wrapper');
 const myForm = document.getElementById('my-form');
 
 
@@ -15,7 +15,7 @@ myForm.addEventListener('submit', async e => {
     const json = await response.json();
 
     if(json.success) {
-        // signActive.classList.remove('signin_active');
+        allContentWrapper.classList.add('all_content-wrapper-none');
 
         const welcome = document.querySelector('.welcome'),
             userId = welcome.querySelector('#user_id');

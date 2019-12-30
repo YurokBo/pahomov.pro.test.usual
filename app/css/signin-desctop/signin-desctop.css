@@ -1,0 +1,5 @@
+.signin-desctop{
+    display: grid;
+    grid-template-columns: 24px auto;
+    align-items: center;
+}

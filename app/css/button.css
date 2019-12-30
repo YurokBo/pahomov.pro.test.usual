@@ -1,0 +1,17 @@
+.btn {
+    margin: 5px 0;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 34px;
+    /* or 171% */
+    color: #FFFFFF;
+    letter-spacing: 0.15px;
+
+    /* Blue Primary */
+    background: #2196F3;
+    border-radius: 4px;
+    width: 100%;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 3px 4px rgba(0, 0, 0, 0.12), 0px 2px 4px rgba(0, 0, 0, 0.14);
+}
